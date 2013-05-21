@@ -147,3 +147,17 @@ termina bar1
 {
 	z-index: 0;
 }
+.slide-img
+{
+	z-index: 0;
+}
+
+.logo-trans
+{
+	z-index: 5;
+}
+
+#myCarousel
+{
+	z-index: 0;
+}
