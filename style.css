@@ -7,6 +7,7 @@
 body
 {
 	width: 100%;
+	background: rgb(107,107,107);
 }
 
 
@@ -44,6 +45,7 @@ body
 .wrapper
 {
 	margin: 0 auto;
+
 
 }
 
@@ -161,3 +163,22 @@ termina bar1
 {
 	z-index: 0;
 }
+
+
+.main-1
+{
+	background: url(imgs/main_content_background.jpg) no-repeat top center #f1f1f1;
+	min-height: 498px;
+	margin: -107px 0px 0px 0px;
+}
+
+/*footer*/
+
+.footer
+{
+	
+
+
+}
+
+/*/footer*/
