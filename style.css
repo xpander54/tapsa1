@@ -130,7 +130,7 @@ termina bar1
 
 .pegaso-logo-bg
 {
-	margin: 0px auto;
+	margin: -59px auto;
 	width: 308px;
 	height: 181px;
 }
@@ -182,3 +182,14 @@ termina bar1
 }
 
 /*/footer*/
+
+.tst1
+{
+	margin: -52px 0px 0px 0px;
+	height: 100px;
+	width: 100%;
+	z-index: 5;
+	position: absolute;
+	text-align: center;
+
+}
