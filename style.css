@@ -4,6 +4,49 @@
 	padding: 0;
 }
 
+body
+{
+	width: 100%;
+}
+
+/*
+@media screen and (min-width: 1280px) 
+{
+	.wrapper
+	{
+		
+		max-width: 1280px;
+	}
+
+	.bar-bg
+	{
+		max-width: 1280px;
+	}
+}
+
+@media screen and (min-width: 1300px) 
+{
+	.logo-wrap
+	{
+		margin: 1.8% 0px !important;
+	}
+}
+
+@media screen and (min-width: 1580px) 
+{
+	.logo-wrap
+	{
+		margin: 1.3% 0px !important;
+	}
+}
+*/
+
+.wrapper
+{
+	margin: 0 auto;
+
+}
+
 
 /*slide*/
 
@@ -22,6 +65,8 @@ bar1
 .bar1
 {
 	margin: -20px 0px 0px 0px;
+	background: url(imgs/menu_bar_bg2.png);
+	height: 59px;
 
 }
 
@@ -45,8 +90,7 @@ bar1
 	margin: 2% 0px 0px 0px;
 	height: 214px;
 	max-height: 214px;
-	
-
+	max-width: 1280px;
 }
 
 .pegaso-logo-center
@@ -63,6 +107,8 @@ bar1
 .bar-bg
 {
 	width: 100%;
+
+
 }
 
 .barra-logo
@@ -76,3 +122,28 @@ bar1
 /*
 termina bar1
 */
+
+
+/*comienza logo*/
+
+.pegaso-logo-bg
+{
+	margin: -59px auto;
+	width: 308px;
+	height: 181px;
+}
+
+.logo1
+{
+	margin: -70% auto;
+	width: 198px;
+	height: 116px;
+	z-index: 5;
+}
+
+/*termina logo*/
+
+.slide
+{
+	z-index: 0;
+}
