@@ -9,7 +9,7 @@ body
 	width: 100%;
 }
 
-/*
+
 @media screen and (min-width: 1280px) 
 {
 	.wrapper
@@ -23,7 +23,7 @@ body
 		max-width: 1280px;
 	}
 }
-
+/*
 @media screen and (min-width: 1300px) 
 {
 	.logo-wrap
@@ -128,7 +128,7 @@ termina bar1
 
 .pegaso-logo-bg
 {
-	margin: -59px auto;
+	margin: 0px auto;
 	width: 308px;
 	height: 181px;
 }
