@@ -10,7 +10,7 @@ body
 	background: rgb(107,107,107);
 }
 
-
+/*
 @media screen and (min-width: 1280px) 
 {
 	.wrapper
@@ -24,7 +24,7 @@ body
 		max-width: 1280px;
 	}
 }
-/*
+
 @media screen and (min-width: 1300px) 
 {
 	.logo-wrap
