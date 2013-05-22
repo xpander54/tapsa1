@@ -173,11 +173,11 @@ termina bar1
 {
 	background: url(imgs/bg-cont.jpg) no-repeat #f1f1f1;
 	background-position: 0px -60px;
+	background-size: 100%;
 	min-height: 498px;
 	margin: 0px 0px 0px 0px;
 	text-align: center;
-	padding: 20% 0px 0px 0px
-;
+	padding: 20% 0px 0px 0px;
 }
 
 /*footer*/
