@@ -1,0 +1,25 @@
+{
+    "files": [
+        {
+            "source": "jquery2.js",
+            "type": "SCRIPT",
+            "size": 240.2
+        },
+        {
+            "source": "slide2/chopper1.jpg",
+            "type": "IMAGE",
+            "size": 245.0
+        },
+        {
+            "source": "slide2/chopper2.jpg",
+            "type": "IMAGE",
+            "size": 316.4
+        },
+        {
+            "source": "slide2/img3.jpg",
+            "type": "IMAGE",
+            "size": 261.52
+        }
+
+            ]
+}
