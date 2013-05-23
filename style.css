@@ -57,6 +57,12 @@ body
 	width: 100%;
 }
 
+
+.carousel-inner
+{
+	
+}
+
 /*/slide*/
 
 
@@ -148,6 +154,8 @@ termina bar1
 .slide
 {
 	z-index: 0;
+	
+
 }
 .slide-img
 {
