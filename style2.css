@@ -259,3 +259,16 @@ termina bar1
 	margin: 4em 0;
 
 }
+
+.logo-pre
+{
+	
+}
+
+.pre-img-cont
+{
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	top: 25%; 
+}
